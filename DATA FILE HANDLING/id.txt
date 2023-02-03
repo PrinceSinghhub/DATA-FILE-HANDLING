@@ -1,0 +1,5 @@
+khushi = 102
+codex = 103
+Ajeet = 101
+coder = 104
+aj = 105

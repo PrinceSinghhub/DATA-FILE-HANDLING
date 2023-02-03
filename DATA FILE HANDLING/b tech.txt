@@ -1,0 +1,8 @@
+khushi = 101 
+ajeet = 200 
+codex = 202
+to kesi hai aap log
+wellcome
+goodto kesi hai aap log
+wellcome
+good

@@ -1,0 +1,5 @@
+codex = 18
+khushi = 17
+coder = 12
+aj = 20
+Ajeet = 18
